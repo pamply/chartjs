@@ -1,0 +1,21 @@
+{
+  "name": "chartjs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "coffeeify": "^2.1.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.9.0"
+  },
+  "dependencies": {
+    "chart.js": "^2.5.0"
+  }
+}
